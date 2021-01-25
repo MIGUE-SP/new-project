@@ -1,14 +1,14 @@
 # new-project
 <html>
    <head>
-     your bicicle
+     your bicicle is essencial 
 
   </head> 
-  <pussh>
+ 
     
   <body>
 <h1>hola mundo </h1>
-<h2> valdes </h2> 
+<h2> valdes is professional ecconomy</h2> 
 <p> hola k have </p>
   </body>
 <p>esta pagina sirve para ver tu progreso en tu bici<p>
